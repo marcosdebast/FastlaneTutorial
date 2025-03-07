@@ -1,0 +1,20 @@
+Build
+Packages
+.build
+xcuserdata
+xcuserdata/
+xcuserstate/
+DerivedData/
+.DS_Store
+db.sqlite
+.swiftpm
+.env
+.env.*
+! .env.example
+.vscode
+
+# fastlane
+
+fastlane/report.xml
+fastlane/test_output
+fastlane/README.md
